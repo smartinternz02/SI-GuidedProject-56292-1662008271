@@ -1,6 +1,6 @@
 # Grocery
 
-Splash Screen:-
+Splash screen:-
 
 ![Splash Screen](https://user-images.githubusercontent.com/96439012/190905133-d08fe067-15a4-46e9-a073-46803c9b42ed.gif)
 
